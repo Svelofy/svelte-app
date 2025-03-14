@@ -1,1 +1,5 @@
-<h1>Hello world!</h1>
+<script>
+	import App from '$lib/App.svelte';
+</script>
+
+<App />
