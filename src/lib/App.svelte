@@ -7,4 +7,4 @@
 
 <img {src} {alt} />
 
-<h1>Hello world from the {name.toUpperCase()} component</h1>
+<h1 class="text-2xl font-bold">Hello world from the {name.toUpperCase()} component</h1>
