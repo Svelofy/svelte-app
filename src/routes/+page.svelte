@@ -1,5 +1,9 @@
 <script>
-	import App from '$lib/App.svelte';
+	import Attributes from '$lib/Attributes.svelte';
+	import Main from '$lib/Main.svelte';
+	import Runes from '$lib/Runes.svelte';
 </script>
 
-<App />
+<Main />
+<Attributes />
+<Runes />
